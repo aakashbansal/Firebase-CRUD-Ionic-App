@@ -40,9 +40,7 @@ This sets-up the project locally on your machine.
 
 See this [Official Firebase Documentation](https://firebase.google.com/docs/web/setup) for getting familiar on how to set up **Firebase** for this app. 
 
-After setting up the **Firebase** project on the **console**, just copy and paste the **config** object from the **Firebase console** into the following directory in the specified format : 
-
-**src/config/firebase.credentials.ts** 
+After setting up the **Firebase** project on the **console**, just copy and paste the **config** object from the **Firebase console** into the following directory :  **src/config/firebase.credentials.ts** 
 
 The project is good to go now.
 
