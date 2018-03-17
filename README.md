@@ -36,7 +36,7 @@ $ npm install
 
 This sets-up the project locally on your machine.
 
-**Setting up Firebase for this Project**
+## Setting up Firebase for this Project
 
 See this [Official Firebase Documentation](https://firebase.google.com/docs/web/setup) for getting familiar on how to set up **Firebase** for this app. 
 
@@ -44,6 +44,7 @@ After setting up the **Firebase** project on the **console**, just copy and past
 
 The project is good to go now.
 
+## Running the App
 
 To run the app in **Browser** :
 ```
